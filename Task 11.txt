@@ -1,0 +1,1 @@
+I can able to ping the vm in the AWS and able to connect it Via SSH . but I can't able to ping the Kali from AWS 
